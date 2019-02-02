@@ -1,0 +1,48 @@
+html {
+    background-image: url(../../Images/tech-background-2.jpg);
+}
+
+.main-header {
+    border-radius: 10px;
+    background-color: lightblue;
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.main-header h1 {
+    color: darkblue;
+    font-family: Tahoma;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.dropdown {
+    border-radius: 10px;
+    background-color: #333333;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.dropdown ul {
+    list-style: none;
+    overflow: hidden; 
+}
+
+.dropdown li {
+    float: left;
+}
+
+.dropdown li a {
+    display: block;
+    color: white;
+    font-family: fantasy;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.dropdown li a:hover {
+    background-color: black;
+}
