@@ -2,6 +2,57 @@ html {
     background-image: url(../../Images/tech-background-2.jpg);
 }
 
+h3 {
+    text-align: center;
+}
+
+p {
+    padding-left: 80px;
+    font-family: Georgia;
+    font-size: 18px;
+}
+
+.description {
+    padding-top: -50px;
+    margin-left: 15%;
+    width: 50%;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.main ul {
+    padding-left: 110px;
+    font-family: Georgia;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.left {
+    float:left;
+    padding-left: 50px;
+}
+
+.right {
+    float: right;
+    padding-right: 50px;
+}
+
+.border {
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 90%;
+    margin-left: 5%;
+    opacity: 0.9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+.subtitle {
+    font-family: cursive;
+    font-size: 30px;
+}
+
 .main-header {
     border-radius: 10px;
     background-color: lightblue;
@@ -46,3 +97,11 @@ html {
 .dropdown li a:hover {
     background-color: black;
 }
+
+.othello img {
+    padding-top: 15px;
+    width: 45%;
+    height: auto;
+    margin-left: 25%;
+}
+
