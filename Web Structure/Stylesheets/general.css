@@ -12,6 +12,11 @@ p {
     font-size: 18px;
 }
 
+video {
+    margin-left: 25%;
+    width: 45%;
+}
+
 .description {
     padding-top: -50px;
     margin-left: 15%;
