@@ -1,0 +1,23 @@
+.overview {
+    margin-left: 7%;
+}
+
+.overview div {
+    float: left;
+    padding-right: 50px;
+}
+
+.overview div p {
+    line-height: 25px;
+    max-width: 650px;
+    text-align: justify;
+    text-indent: 40px;
+    font-size: 16px !important;
+    padding-left: 0px !important;
+}
+
+.overview img {
+    padding-top: 50px;
+    width: 350px;
+    height: auto;
+}
