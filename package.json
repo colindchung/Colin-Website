@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://colindchung.github.io/personal_website/",
+  "homepage": "https://colindchung.github.io/personal_website/public",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
