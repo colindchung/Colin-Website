@@ -15,6 +15,7 @@ p {
 video {
     margin-left: 25%;
     width: 45%;
+    border-radius: 5px;
 }
 
 .description {
