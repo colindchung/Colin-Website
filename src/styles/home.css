@@ -1,23 +1,23 @@
 .overview {
-    margin-left: 7%;
+    margin-left: 5%;
 }
 
 .overview div {
     float: left;
-    padding-right: 50px;
+    padding-right: 3%;
 }
 
 .overview div p {
-    line-height: 25px; 
+    line-height: 175%; 
     max-width: 650px; 
     text-align: justify;
-    text-indent: 40px;
+    text-indent: 5%;
     font-size: 16px !important;
-    padding-left: 0px !important;
+    padding-left: 5% !important;
 }
 
 .overview img{
-    padding-top: 50px;
+    padding-top: 1%;
     width: 350px;
     height: auto;   
 }

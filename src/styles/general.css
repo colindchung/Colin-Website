@@ -7,7 +7,7 @@ h3 {
 }
 
 p {
-    padding-left: 80px;
+    padding-left: 8%;
     font-family: Georgia;
     font-size: 18px;
 }
@@ -19,7 +19,7 @@ video {
 }
 
 .description {
-    padding-top: -50px;
+   
     margin-left: 15%;
     width: 50%;
     line-height: 1.5;
@@ -27,20 +27,20 @@ video {
 }
 
 .main ul {
-    padding-left: 110px;
+    padding-left: 13%;
     font-family: Georgia;
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 150%;
 }
 
 .left {
     float:left;
-    padding-left: 50px;
+    padding-left: 13%;
 }
 
 .right {
     float: right;
-    padding-right: 50px;
+    padding-right: 13%;
 }
 
 .border {
@@ -49,14 +49,14 @@ video {
     width: 90%;
     margin-left: 5%;
     opacity: 0.9;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 3%;
+    padding-bottom: 3%;
     display: inline-block;
 }
 
 .subtitle {
     font-family: cursive;
-    font-size: 30px;
+    font-size: 225%;
 }
 
 .main-header {
@@ -105,8 +105,18 @@ video {
 }
 
 .main img {
-    padding-top: 15px;
+    padding-top: 2%;
     width: 45%;
     height: auto;
     margin-left: 25%;
+}
+
+.complexity {
+    display: flex;
+}
+
+.complexity img {
+    margin-left: 1% !important;
+    width: 7.5%;
+    height: 1.5%;
 }
