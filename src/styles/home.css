@@ -1,3 +1,16 @@
+p {
+    line-height: 175%; 
+    text-align: justify;
+    text-indent: 5%;
+    font-size: 16px !important;
+    padding-left: 5% !important;
+}
+
+h3 {
+    color: darkblue;
+    font-size: 30px;
+}
+
 .overview {
     margin-left: 5%;
 }
@@ -8,16 +21,19 @@
 }
 
 .overview div p {
-    line-height: 175%; 
     max-width: 650px; 
-    text-align: justify;
-    text-indent: 5%;
-    font-size: 16px !important;
-    padding-left: 5% !important;
 }
 
-.overview img{
+.overview img {
     padding-top: 1%;
     width: 350px;
-    height: auto;   
+    height: auto;
+}
+
+.main p {
+    padding-right: 5% !important;
+}
+
+.border {
+    padding-top: 0% !important;
 }
