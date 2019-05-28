@@ -120,3 +120,18 @@ video {
     width: 7.5%;
     height: 1.5%;
 }
+
+.languages {
+    list-style: none;
+    padding-bottom: 4em;
+}
+
+.languages li {
+    float: left;
+    padding-right: 1em;
+}
+
+.languages img {
+    height: 3em;
+    width: auto;
+}
