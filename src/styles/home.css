@@ -15,6 +15,15 @@ h3 {
     padding-bottom: 1%;
 }
 
+
+.sub {
+    font-family: Georgia;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 20px;
+    padding-left: 5%;
+}
+
 .overview {
     margin-left: 5%;
 }
