@@ -135,3 +135,13 @@ video {
     height: 3em;
     width: auto;
 }
+
+
+.sub {
+    font-family: Bookman;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 20px;
+    padding-left: 5%;
+    padding-bottom: 1%;
+}
